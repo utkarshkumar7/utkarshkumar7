@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @utkarshkumar7
+- 👋 Hi, I’m Utkarsh Kumar
 - 👀 I’m interested in Hardware Development, Consumer Electronics, Electric Vehicles, and Product Management!
 - 🌱 I’m currently studying Electrical and Electronics Engineering at UCLA
 - 📫 How to reach me: utkarshk2002@g.ucla.edu | https://www.linkedin.com/in/utkarsh-k-ucla/
