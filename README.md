@@ -12,6 +12,11 @@ I am passionate about building intelligent solutions that solve real-world probl
 Currently expanding my expertise in AI/ML through rigorous coursework and projects at Georgia Tech.  
 I'm excited to contribute to innovative teams at the intersection of technology and impact.
 
+---
+### Technologies
+[![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.javascript.com/)
+
 <!---
 utkarshkumar7/utkarshkumar7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
