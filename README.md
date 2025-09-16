@@ -12,6 +12,8 @@ I am passionate about building intelligent solutions that solve real-world probl
 Currently expanding my expertise in AI/ML through rigorous coursework and projects at Georgia Tech.  
 I'm excited to contribute to innovative teams at the intersection of technology and impact.
 
+Check out my latest project: An [Autonomous ML Agent](https://youtu.be/JILLi6H2yWg) that does end-to-end data cleaning, analysis, and evaluation across different models.
+
 ---
 ### Programming Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
