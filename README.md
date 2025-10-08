@@ -4,7 +4,7 @@
 - 🌱 I’m currently pursuing my Master’s in Computer Science with a specialization in Machine Learning at Georgia Tech. I earned my Bachelor’s degree in Electrical and Electronics Engineering from UCLA.
 - 🔥 I'm interested in ventures related to machine learning engineering, data science, and AI research and development.
 - 📚 I have a strong technical foundation and hands-on experience with machine learning frameworks, statistical modeling, and building intelligent systems.
-- 📫 How to reach me: utkarshk2002@g.ucla.edu | [LinkedIn](https://www.linkedin.com/in/utkarsh-k-ucla/)
+- 📫 How to reach me: utkarshk2002@gmail.com | [LinkedIn](https://www.linkedin.com/in/utkarsh-k-ucla/)
 
 ---
 
