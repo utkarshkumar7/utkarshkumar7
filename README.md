@@ -1,47 +1,58 @@
-# 👋 Hi, I’m Utkarsh Kumar
+# Hi, I'm Utkarsh Kumar 👋
 
-- 👀 I’m passionate about Artificial Intelligence, Machine Learning, and Software Development.
-- 🌱 I’m currently pursuing my Master’s in Computer Science with a specialization in Machine Learning at Georgia Tech. I earned my Bachelor’s degree in Electrical and Electronics Engineering from UCLA.
-- 🔥 I'm interested in ventures related to machine learning engineering, data science, and AI research and development.
-- 📚 I have a strong technical foundation and hands-on experience with machine learning frameworks, statistical modeling, and building intelligent systems.
-- 📫 How to reach me: utkarshk2002@gmail.com | [LinkedIn](https://www.linkedin.com/in/utkarsh-k-ucla/)
+**Electrical Engineer at [Aran Industries](https://aranind.com) · Engineering Automation · AI/ML**
+
+I work at the intersection of **power systems, software engineering, and artificial intelligence**. I'm interested in making complex engineering workflows more computational, repeatable, and auditable—especially for the data centers and energy infrastructure powering modern computing.
+
+### ⚡ What I'm working on
+
+At **Aran Industries**, I combine hands-on electrical engineering with software development to help automate the design of data-center infrastructure.
+
+- **Electrical design automation:** Building workflows that connect project requirements to load calculations, equipment configuration and sizing, and single-line diagrams.
+- **Power distribution & reliability:** Developing configurable PDU and rack-power architectures, redundancy-aware sizing, and engineering validation checks.
+- **Connected engineering models:** Improving the consistency between equipment catalogs, electrical models, and physical space layouts as designs evolve.
+- **Standards-aware engineering:** Working toward traceable electrical calculations, code references, circuit schedules, and clear engineer-review checkpoints.
+- **Emerging power architectures:** Exploring 800 V DC distribution, battery-backed and inverter-based systems, and study-ready workflows for tools such as ETAP and PSCAD.
+
+I also work on real-world electrical design reviews and deliverables. Much of my current engineering software work lives in private repositories, so the public projects below show another side of what I build.
+
+### 🧠 Selected projects
+
+- **[Autonomous ML Agent](https://github.com/utkarshkumar7/Autonomous-ML-Agent)** — An end-to-end ML workflow that cleans data, evaluates multiple models, and presents performance comparisons. [Watch the demo](https://youtu.be/JILLi6H2yWg).
+- **[EV Charging Optimization with Reinforcement Learning](https://github.com/utkarshkumar7/ev-charging-rl)** — An exploration of RL for charger placement, dynamic pricing, wait times, and electricity-grid load balancing.
+
+### 🎓 Background
+
+- **Georgia Tech** — Master's in Computer Science, specializing in Machine Learning *(in progress)*.
+- **UCLA** — Bachelor's in Electrical and Electronics Engineering.
+
+### 🛠️ Tech stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+
+**Software & machine learning**
+
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+
+**Engineering interests:** Data-center power systems · Electrical design automation · Power-system modeling · NEC-aware validation · 800 V DC · Energy storage
+
+**Other tools:** CUDA · Hugging Face · Matplotlib · Databricks · Vercel · Power BI
+
+### 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/utkarsh-k-ucla/) · [Email](mailto:utkarshk2002@gmail.com)
 
 ---
 
-I am passionate about building intelligent solutions that solve real-world problems.  
-Currently expanding my expertise in AI/ML through rigorous coursework and projects at Georgia Tech.  
-I'm excited to contribute to innovative teams at the intersection of technology and impact.
-
-Check out my latest project: An [Autonomous ML Agent](https://youtu.be/JILLi6H2yWg) that does end-to-end data cleaning, analysis, and evaluation across different models.
-
----
-### Programming Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
-
-
-### Tools
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
-[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
-[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
-[![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)](#)
-[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
-[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
-[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
-[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
-
-### Frameworks
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
-[![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=fff)](#)
-[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
-[![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)](#)
-<!---
-utkarshkumar7/utkarshkumar7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
+*I like building tools that connect software to the physical world—and that engineers can understand, verify, and trust.*
